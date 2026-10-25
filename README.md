@@ -40,14 +40,15 @@ Menganalisis angka putus sekolah di Bandar Lampung berdasarkan jenjang pendidika
 ## 📂 Struktur Repositori
 
 ```
-├── dataset_all.csv                      # Data mentah gabungan (SD, SMP, SMA, SMK)
-├── dataset_all_clean.csv                # Data bersih, siap analisis
-├── Analisis_Putus_Sekolah_v3.ipynb      # Notebook utama (gathering, assessing, cleaning, EDA, modeling)
-├── output_looker/                       # File ringkasan siap pakai untuk dashboard (pengembangan lanjutan)
+├── Dataset Raw.csv                      # Data mentah gabungan (SD, SMP, SMA, SMK)
+├── Dataset clean.csv
+│   ├── Dataset_all_clean                # Data bersih, siap analisis
+├── Analisis_Putus_Sekolah.ipynb         # Notebook utama (gathering, assessing, cleaning, EDA, modeling)
+├── Output Looker/                       # File ringkasan siap pakai untuk dashboard (pengembangan lanjutan)
 │   ├── dashboard_kpi.csv
 │   ├── kecamatan_status.csv
 │   └── tren_dan_proyeksi.csv
-├── assets/                              # Visualisasi hasil notebook
+├── Assets/                              # Visualisasi hasil notebook
 └── README.md
 ```
 
@@ -110,7 +111,7 @@ Validasi: total SD (273), SMP (61), dan SMA (79) hasil bersih sama persis dengan
 
 ### 1. Tren tahunan
 
-![Tren tahunan](assets/01_tren_tahunan.png)
+(assets/01_tren_tahunan.png)
 
 | Tahun | 2021 | 2022 | 2023 | 2024 |
 |---|---|---|---|---|
