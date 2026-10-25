@@ -119,7 +119,7 @@ Validasi: total SD (273), SMP (61), dan SMA (79) hasil bersih sama persis dengan
 
 ### 2. Per jenjang
 
-![Kasus per jenjang](assets/02_kasus_per_jenjang.png)
+[Kasus per jenjang](assets/02_kasus_per_jenjang.png)
 
 | Jenjang | Total | Persentase | 2024 |
 |---|---|---|---|
@@ -130,7 +130,7 @@ Validasi: total SD (273), SMP (61), dan SMA (79) hasil bersih sama persis dengan
 
 ### 3. Hotspot: kumulatif vs terbaru
 
-![Top 5 kecamatan](assets/03_top5_kecamatan.png)
+[Top 5 kecamatan](assets/03_top5_kecamatan.png)
 
 Peringkat kumulatif (di atas) menggabungkan semua tahun. Peta panas kecamatan × tahun (di bagian atas halaman ini) menunjukkan gambaran yang berbeda:
 
@@ -147,27 +147,27 @@ Tanjung Karang Pusat dan Teluk Betung Utara sama-sama berada di peringkat 5 (imb
 
 ### 4. Sumber kenaikan SD pada 2024
 
-![Kontribusi kenaikan SD](assets/06_kontribusi_kenaikan_sd.png)
+[Kontribusi kenaikan SD](assets/06_kontribusi_kenaikan_sd.png)
 
 Kenaikan bersih SD (+19) sama persis dengan kenaikan di Teluk Betung Timur (+19). Tanpa kecamatan ini, kasus SD tidak berubah (52 → 52).
 
 ### 5. Profil anak
 
-![Gender per jenjang](assets/07_gender_per_jenjang.png)
+[Gender per jenjang](assets/07_gender_per_jenjang.png)
 
 - **Jenis kelamin:** SD 59% laki-laki; SMP 64% perempuan. Pada 2024, anak laki-laki mencapai 65% dari seluruh kasus (55 dari 85).
 
-![Kelas rawan](assets/08_kelas_rawan.png)
+[Kelas rawan](assets/08_kelas_rawan.png)
 
 - **Kelas rawan:** kelas 7 (38 dari 61 kasus SMP) dan kelas 10 (45 dari 79 kasus SMA), yaitu saat peralihan jenjang.
 
-![Negeri vs swasta (SD)](assets/04_negeri_vs_swasta_sd.png)
+[Negeri vs swasta (SD)](assets/04_negeri_vs_swasta_sd.png)
 
 - **Negeri vs swasta (khusus SD):** Negeri 243, Swasta 30. Angka ini belum dibagi jumlah siswa, sehingga belum menunjukkan risiko secara proporsional.
 
 ### 6. Konsentrasi dan status prioritas kecamatan
 
-![Pareto kecamatan](assets/09_pareto_kecamatan.png)
+[Pareto kecamatan](assets/09_pareto_kecamatan.png)
 
 Delapan dari 20 kecamatan menyumbang 50% kasus, dan 14 kecamatan menyumbang 80%.
 
@@ -183,7 +183,7 @@ Ambang (≥ 6 dan ≥ 5) adalah aturan sederhana yang dapat disesuaikan.
 
 ## 🔮 Proyeksi 2025
 
-![Proyeksi 2025](assets/10_proyeksi_2025.png)
+[Proyeksi 2025](assets/10_proyeksi_2025.png)
 
 | Metrik | Nilai |
 |---|---|
