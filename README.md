@@ -111,7 +111,7 @@ Validasi: total SD (273), SMP (61), dan SMA (79) hasil bersih sama persis dengan
 
 ### 1. Tren tahunan
 
-(assets/01_tren_tahunan.png)
+[Tren_Tahunan](assets/01_tren_tahunan.png)
 
 | Tahun | 2021 | 2022 | 2023 | 2024 |
 |---|---|---|---|---|
