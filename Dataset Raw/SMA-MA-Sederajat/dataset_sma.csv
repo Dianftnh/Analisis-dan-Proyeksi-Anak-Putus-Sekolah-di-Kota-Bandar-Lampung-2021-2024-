@@ -1,0 +1,585 @@
+Kecamatan,Jenjang,Tahun,Jumlah,Jenis Kelamin,Tingkat
+Kec. Teluk Betung Barat,SMA,2021,0,Laki-laki,X
+Kec. Teluk Betung Selatan,SMA,2021,0,Laki-laki,X
+Kec. Panjang,SMA,2021,0,Laki-laki,X
+Kec. Tanjung Karang Timur,SMA,2021,6,Laki-laki,X
+Kec. Teluk Betung Utara,SMA,2021,0,Laki-laki,X
+Kec. Tanjung Karang Pusat,SMA,2021,0,Laki-laki,X
+Kec. Tanjung Karang Barat,SMA,2021,0,Laki-laki,X
+Kec. Kedaton,SMA,2021,0,Laki-laki,X
+Kec. Sukarame,SMA,2021,0,Laki-laki,X
+Kec. Kemiling,SMA,2021,0,Laki-laki,X
+Kec. Rajabasa,SMA,2021,0,Laki-laki,X
+Kec. Tanjung Senang,SMA,2021,0,Laki-laki,X
+Kec. Labuhan Ratu,SMA,2021,1,Laki-laki,X
+Kec. Kedamaian,SMA,2021,0,Laki-laki,X
+Kec. Enggal,SMA,2021,1,Laki-laki,X
+Kec. Langkapura,SMA,2021,0,Laki-laki,X
+Kec. Bumi Waras,SMA,2021,0,Laki-laki,X
+Kec. Teluk Betung Timur,SMA,2021,0,Laki-laki,X
+Kec. Teluk Betung Barat,SMA,2021,0,Laki-laki,XI
+Kec. Teluk Betung Selatan,SMA,2021,0,Laki-laki,XI
+Kec. Panjang,SMA,2021,0,Laki-laki,XI
+Kec. Tanjung Karang Timur,SMA,2021,0,Laki-laki,XI
+Kec. Teluk Betung Utara,SMA,2021,0,Laki-laki,XI
+Kec. Tanjung Karang Pusat,SMA,2021,0,Laki-laki,XI
+Kec. Tanjung Karang Barat,SMA,2021,0,Laki-laki,XI
+Kec. Kedaton,SMA,2021,0,Laki-laki,XI
+Kec. Sukarame,SMA,2021,0,Laki-laki,XI
+Kec. Kemiling,SMA,2021,0,Laki-laki,XI
+Kec. Rajabasa,SMA,2021,0,Laki-laki,XI
+Kec. Tanjung Senang,SMA,2021,0,Laki-laki,XI
+Kec. Labuhan Ratu,SMA,2021,0,Laki-laki,XI
+Kec. Kedamaian,SMA,2021,0,Laki-laki,XI
+Kec. Enggal,SMA,2021,0,Laki-laki,XI
+Kec. Langkapura,SMA,2021,0,Laki-laki,XI
+Kec. Bumi Waras,SMA,2021,0,Laki-laki,XI
+Kec. Teluk Betung Timur,SMA,2021,0,Laki-laki,XI
+Kec. Teluk Betung Barat,SMA,2021,0,Laki-laki,XII
+Kec. Teluk Betung Selatan,SMA,2021,1,Laki-laki,XII
+Kec. Panjang,SMA,2021,0,Laki-laki,XII
+Kec. Tanjung Karang Timur,SMA,2021,1,Laki-laki,XII
+Kec. Teluk Betung Utara,SMA,2021,0,Laki-laki,XII
+Kec. Tanjung Karang Pusat,SMA,2021,0,Laki-laki,XII
+Kec. Tanjung Karang Barat,SMA,2021,0,Laki-laki,XII
+Kec. Kedaton,SMA,2021,0,Laki-laki,XII
+Kec. Sukarame,SMA,2021,0,Laki-laki,XII
+Kec. Kemiling,SMA,2021,0,Laki-laki,XII
+Kec. Rajabasa,SMA,2021,0,Laki-laki,XII
+Kec. Tanjung Senang,SMA,2021,0,Laki-laki,XII
+Kec. Labuhan Ratu,SMA,2021,0,Laki-laki,XII
+Kec. Kedamaian,SMA,2021,0,Laki-laki,XII
+Kec. Enggal,SMA,2021,0,Laki-laki,XII
+Kec. Langkapura,SMA,2021,0,Laki-laki,XII
+Kec. Bumi Waras,SMA,2021,0,Laki-laki,XII
+Kec. Teluk Betung Timur,SMA,2021,0,Laki-laki,XII
+Kec. Teluk Betung Barat,SMA,2021,0,Laki-laki,Total
+Kec. Teluk Betung Selatan,SMA,2021,1,Laki-laki,Total
+Kec. Panjang,SMA,2021,0,Laki-laki,Total
+Kec. Tanjung Karang Timur,SMA,2021,7,Laki-laki,Total
+Kec. Teluk Betung Utara,SMA,2021,0,Laki-laki,Total
+Kec. Tanjung Karang Pusat,SMA,2021,0,Laki-laki,Total
+Kec. Tanjung Karang Barat,SMA,2021,0,Laki-laki,Total
+Kec. Kedaton,SMA,2021,0,Laki-laki,Total
+Kec. Sukarame,SMA,2021,0,Laki-laki,Total
+Kec. Kemiling,SMA,2021,0,Laki-laki,Total
+Kec. Rajabasa,SMA,2021,0,Laki-laki,Total
+Kec. Tanjung Senang,SMA,2021,0,Laki-laki,Total
+Kec. Labuhan Ratu,SMA,2021,1,Laki-laki,Total
+Kec. Kedamaian,SMA,2021,0,Laki-laki,Total
+Kec. Enggal,SMA,2021,1,Laki-laki,Total
+Kec. Langkapura,SMA,2021,0,Laki-laki,Total
+Kec. Bumi Waras,SMA,2021,0,Laki-laki,Total
+Kec. Teluk Betung Timur,SMA,2021,0,Laki-laki,Total
+Kec. Teluk Betung Barat,SMA,2021,0,Perempuan,X
+Kec. Teluk Betung Selatan,SMA,2021,0,Perempuan,X
+Kec. Panjang,SMA,2021,0,Perempuan,X
+Kec. Tanjung Karang Timur,SMA,2021,1,Perempuan,X
+Kec. Teluk Betung Utara,SMA,2021,0,Perempuan,X
+Kec. Tanjung Karang Pusat,SMA,2021,0,Perempuan,X
+Kec. Tanjung Karang Barat,SMA,2021,0,Perempuan,X
+Kec. Kedaton,SMA,2021,0,Perempuan,X
+Kec. Sukarame,SMA,2021,0,Perempuan,X
+Kec. Kemiling,SMA,2021,0,Perempuan,X
+Kec. Rajabasa,SMA,2021,0,Perempuan,X
+Kec. Tanjung Senang,SMA,2021,0,Perempuan,X
+Kec. Labuhan Ratu,SMA,2021,0,Perempuan,X
+Kec. Kedamaian,SMA,2021,8,Perempuan,X
+Kec. Enggal,SMA,2021,0,Perempuan,X
+Kec. Langkapura,SMA,2021,0,Perempuan,X
+Kec. Bumi Waras,SMA,2021,0,Perempuan,X
+Kec. Teluk Betung Timur,SMA,2021,0,Perempuan,X
+Kec. Teluk Betung Barat,SMA,2021,0,Perempuan,XI
+Kec. Teluk Betung Selatan,SMA,2021,0,Perempuan,XI
+Kec. Panjang,SMA,2021,0,Perempuan,XI
+Kec. Tanjung Karang Timur,SMA,2021,1,Perempuan,XI
+Kec. Teluk Betung Utara,SMA,2021,0,Perempuan,XI
+Kec. Tanjung Karang Pusat,SMA,2021,0,Perempuan,XI
+Kec. Tanjung Karang Barat,SMA,2021,0,Perempuan,XI
+Kec. Kedaton,SMA,2021,0,Perempuan,XI
+Kec. Sukarame,SMA,2021,0,Perempuan,XI
+Kec. Kemiling,SMA,2021,0,Perempuan,XI
+Kec. Rajabasa,SMA,2021,0,Perempuan,XI
+Kec. Tanjung Senang,SMA,2021,0,Perempuan,XI
+Kec. Labuhan Ratu,SMA,2021,0,Perempuan,XI
+Kec. Kedamaian,SMA,2021,0,Perempuan,XI
+Kec. Enggal,SMA,2021,0,Perempuan,XI
+Kec. Langkapura,SMA,2021,0,Perempuan,XI
+Kec. Bumi Waras,SMA,2021,0,Perempuan,XI
+Kec. Teluk Betung Timur,SMA,2021,0,Perempuan,XI
+Kec. Teluk Betung Barat,SMA,2021,0,Perempuan,XII
+Kec. Teluk Betung Selatan,SMA,2021,0,Perempuan,XII
+Kec. Panjang,SMA,2021,0,Perempuan,XII
+Kec. Tanjung Karang Timur,SMA,2021,0,Perempuan,XII
+Kec. Teluk Betung Utara,SMA,2021,0,Perempuan,XII
+Kec. Tanjung Karang Pusat,SMA,2021,0,Perempuan,XII
+Kec. Tanjung Karang Barat,SMA,2021,0,Perempuan,XII
+Kec. Kedaton,SMA,2021,0,Perempuan,XII
+Kec. Sukarame,SMA,2021,0,Perempuan,XII
+Kec. Kemiling,SMA,2021,0,Perempuan,XII
+Kec. Rajabasa,SMA,2021,0,Perempuan,XII
+Kec. Tanjung Senang,SMA,2021,0,Perempuan,XII
+Kec. Labuhan Ratu,SMA,2021,0,Perempuan,XII
+Kec. Kedamaian,SMA,2021,0,Perempuan,XII
+Kec. Enggal,SMA,2021,0,Perempuan,XII
+Kec. Langkapura,SMA,2021,0,Perempuan,XII
+Kec. Bumi Waras,SMA,2021,0,Perempuan,XII
+Kec. Teluk Betung Timur,SMA,2021,0,Perempuan,XII
+Kec. Teluk Betung Barat,SMA,2021,0,Perempuan,Total
+Kec. Teluk Betung Selatan,SMA,2021,0,Perempuan,Total
+Kec. Panjang,SMA,2021,0,Perempuan,Total
+Kec. Tanjung Karang Timur,SMA,2021,2,Perempuan,Total
+Kec. Teluk Betung Utara,SMA,2021,0,Perempuan,Total
+Kec. Tanjung Karang Pusat,SMA,2021,0,Perempuan,Total
+Kec. Tanjung Karang Barat,SMA,2021,0,Perempuan,Total
+Kec. Kedaton,SMA,2021,0,Perempuan,Total
+Kec. Sukarame,SMA,2021,0,Perempuan,Total
+Kec. Kemiling,SMA,2021,0,Perempuan,Total
+Kec. Rajabasa,SMA,2021,0,Perempuan,Total
+Kec. Tanjung Senang,SMA,2021,0,Perempuan,Total
+Kec. Labuhan Ratu,SMA,2021,0,Perempuan,Total
+Kec. Kedamaian,SMA,2021,8,Perempuan,Total
+Kec. Enggal,SMA,2021,0,Perempuan,Total
+Kec. Langkapura,SMA,2021,0,Perempuan,Total
+Kec. Bumi Waras,SMA,2021,0,Perempuan,Total
+Kec. Teluk Betung Timur,SMA,2021,0,Perempuan,Total
+Kec. Teluk Betung Barat,SMA,2022,0,Laki-laki,X
+Kec. Teluk Betung Selatan,SMA,2022,0,Laki-laki,X
+Kec. Panjang,SMA,2022,3,Laki-laki,X
+Kec. Tanjung Karang Timur,SMA,2022,0,Laki-laki,X
+Kec. Teluk Betung Utara,SMA,2022,0,Laki-laki,X
+Kec. Tanjung Karang Pusat,SMA,2022,0,Laki-laki,X
+Kec. Tanjung Karang Barat,SMA,2022,1,Laki-laki,X
+Kec. Kedaton,SMA,2022,0,Laki-laki,X
+Kec. Sukarame,SMA,2022,1,Laki-laki,X
+Kec. Kemiling,SMA,2022,0,Laki-laki,X
+Kec. Rajabasa,SMA,2022,0,Laki-laki,X
+Kec. Tanjung Senang,SMA,2022,4,Laki-laki,X
+Kec. Labuhan Ratu,SMA,2022,0,Laki-laki,X
+Kec. Kedamaian,SMA,2022,0,Laki-laki,X
+Kec. Enggal,SMA,2022,0,Laki-laki,X
+Kec. Langkapura,SMA,2022,0,Laki-laki,X
+Kec. Bumi Waras,SMA,2022,0,Laki-laki,X
+Kec. Teluk Betung Timur,SMA,2022,0,Laki-laki,X
+Kec. Teluk Betung Barat,SMA,2022,0,Laki-laki,XI
+Kec. Teluk Betung Selatan,SMA,2022,0,Laki-laki,XI
+Kec. Panjang,SMA,2022,0,Laki-laki,XI
+Kec. Tanjung Karang Timur,SMA,2022,0,Laki-laki,XI
+Kec. Teluk Betung Utara,SMA,2022,0,Laki-laki,XI
+Kec. Tanjung Karang Pusat,SMA,2022,0,Laki-laki,XI
+Kec. Tanjung Karang Barat,SMA,2022,0,Laki-laki,XI
+Kec. Kedaton,SMA,2022,0,Laki-laki,XI
+Kec. Sukarame,SMA,2022,0,Laki-laki,XI
+Kec. Kemiling,SMA,2022,0,Laki-laki,XI
+Kec. Rajabasa,SMA,2022,0,Laki-laki,XI
+Kec. Tanjung Senang,SMA,2022,7,Laki-laki,XI
+Kec. Labuhan Ratu,SMA,2022,0,Laki-laki,XI
+Kec. Kedamaian,SMA,2022,0,Laki-laki,XI
+Kec. Enggal,SMA,2022,0,Laki-laki,XI
+Kec. Langkapura,SMA,2022,0,Laki-laki,XI
+Kec. Bumi Waras,SMA,2022,0,Laki-laki,XI
+Kec. Teluk Betung Timur,SMA,2022,0,Laki-laki,XI
+Kec. Teluk Betung Barat,SMA,2022,0,Laki-laki,XII
+Kec. Teluk Betung Selatan,SMA,2022,0,Laki-laki,XII
+Kec. Panjang,SMA,2022,0,Laki-laki,XII
+Kec. Tanjung Karang Timur,SMA,2022,5,Laki-laki,XII
+Kec. Teluk Betung Utara,SMA,2022,1,Laki-laki,XII
+Kec. Tanjung Karang Pusat,SMA,2022,0,Laki-laki,XII
+Kec. Tanjung Karang Barat,SMA,2022,0,Laki-laki,XII
+Kec. Kedaton,SMA,2022,0,Laki-laki,XII
+Kec. Sukarame,SMA,2022,1,Laki-laki,XII
+Kec. Kemiling,SMA,2022,0,Laki-laki,XII
+Kec. Rajabasa,SMA,2022,0,Laki-laki,XII
+Kec. Tanjung Senang,SMA,2022,2,Laki-laki,XII
+Kec. Labuhan Ratu,SMA,2022,0,Laki-laki,XII
+Kec. Kedamaian,SMA,2022,0,Laki-laki,XII
+Kec. Enggal,SMA,2022,0,Laki-laki,XII
+Kec. Langkapura,SMA,2022,0,Laki-laki,XII
+Kec. Bumi Waras,SMA,2022,0,Laki-laki,XII
+Kec. Teluk Betung Timur,SMA,2022,0,Laki-laki,XII
+Kec. Teluk Betung Barat,SMA,2022,0,Laki-laki,Total
+Kec. Teluk Betung Selatan,SMA,2022,0,Laki-laki,Total
+Kec. Panjang,SMA,2022,3,Laki-laki,Total
+Kec. Tanjung Karang Timur,SMA,2022,5,Laki-laki,Total
+Kec. Teluk Betung Utara,SMA,2022,1,Laki-laki,Total
+Kec. Tanjung Karang Pusat,SMA,2022,0,Laki-laki,Total
+Kec. Tanjung Karang Barat,SMA,2022,1,Laki-laki,Total
+Kec. Kedaton,SMA,2022,0,Laki-laki,Total
+Kec. Sukarame,SMA,2022,2,Laki-laki,Total
+Kec. Kemiling,SMA,2022,0,Laki-laki,Total
+Kec. Rajabasa,SMA,2022,0,Laki-laki,Total
+Kec. Tanjung Senang,SMA,2022,13,Laki-laki,Total
+Kec. Labuhan Ratu,SMA,2022,0,Laki-laki,Total
+Kec. Kedamaian,SMA,2022,0,Laki-laki,Total
+Kec. Enggal,SMA,2022,0,Laki-laki,Total
+Kec. Langkapura,SMA,2022,0,Laki-laki,Total
+Kec. Bumi Waras,SMA,2022,0,Laki-laki,Total
+Kec. Teluk Betung Timur,SMA,2022,0,Laki-laki,Total
+Kec. Teluk Betung Barat,SMA,2022,0,Perempuan,X
+Kec. Teluk Betung Selatan,SMA,2022,1,Perempuan,X
+Kec. Panjang,SMA,2022,1,Perempuan,X
+Kec. Tanjung Karang Timur,SMA,2022,0,Perempuan,X
+Kec. Teluk Betung Utara,SMA,2022,0,Perempuan,X
+Kec. Tanjung Karang Pusat,SMA,2022,0,Perempuan,X
+Kec. Tanjung Karang Barat,SMA,2022,0,Perempuan,X
+Kec. Kedaton,SMA,2022,0,Perempuan,X
+Kec. Sukarame,SMA,2022,0,Perempuan,X
+Kec. Kemiling,SMA,2022,0,Perempuan,X
+Kec. Rajabasa,SMA,2022,0,Perempuan,X
+Kec. Tanjung Senang,SMA,2022,8,Perempuan,X
+Kec. Labuhan Ratu,SMA,2022,0,Perempuan,X
+Kec. Kedamaian,SMA,2022,0,Perempuan,X
+Kec. Enggal,SMA,2022,0,Perempuan,X
+Kec. Langkapura,SMA,2022,0,Perempuan,X
+Kec. Bumi Waras,SMA,2022,0,Perempuan,X
+Kec. Teluk Betung Timur,SMA,2022,0,Perempuan,X
+Kec. Teluk Betung Barat,SMA,2022,0,Perempuan,XI
+Kec. Teluk Betung Selatan,SMA,2022,0,Perempuan,XI
+Kec. Panjang,SMA,2022,0,Perempuan,XI
+Kec. Tanjung Karang Timur,SMA,2022,0,Perempuan,XI
+Kec. Teluk Betung Utara,SMA,2022,0,Perempuan,XI
+Kec. Tanjung Karang Pusat,SMA,2022,0,Perempuan,XI
+Kec. Tanjung Karang Barat,SMA,2022,0,Perempuan,XI
+Kec. Kedaton,SMA,2022,0,Perempuan,XI
+Kec. Sukarame,SMA,2022,0,Perempuan,XI
+Kec. Kemiling,SMA,2022,0,Perempuan,XI
+Kec. Rajabasa,SMA,2022,0,Perempuan,XI
+Kec. Tanjung Senang,SMA,2022,1,Perempuan,XI
+Kec. Labuhan Ratu,SMA,2022,0,Perempuan,XI
+Kec. Kedamaian,SMA,2022,0,Perempuan,XI
+Kec. Enggal,SMA,2022,0,Perempuan,XI
+Kec. Langkapura,SMA,2022,0,Perempuan,XI
+Kec. Bumi Waras,SMA,2022,0,Perempuan,XI
+Kec. Teluk Betung Timur,SMA,2022,0,Perempuan,XI
+Kec. Teluk Betung Barat,SMA,2022,0,Perempuan,XII
+Kec. Teluk Betung Selatan,SMA,2022,0,Perempuan,XII
+Kec. Panjang,SMA,2022,0,Perempuan,XII
+Kec. Tanjung Karang Timur,SMA,2022,2,Perempuan,XII
+Kec. Teluk Betung Utara,SMA,2022,1,Perempuan,XII
+Kec. Tanjung Karang Pusat,SMA,2022,0,Perempuan,XII
+Kec. Tanjung Karang Barat,SMA,2022,0,Perempuan,XII
+Kec. Kedaton,SMA,2022,0,Perempuan,XII
+Kec. Sukarame,SMA,2022,0,Perempuan,XII
+Kec. Kemiling,SMA,2022,0,Perempuan,XII
+Kec. Rajabasa,SMA,2022,0,Perempuan,XII
+Kec. Tanjung Senang,SMA,2022,4,Perempuan,XII
+Kec. Labuhan Ratu,SMA,2022,0,Perempuan,XII
+Kec. Kedamaian,SMA,2022,0,Perempuan,XII
+Kec. Enggal,SMA,2022,0,Perempuan,XII
+Kec. Langkapura,SMA,2022,0,Perempuan,XII
+Kec. Bumi Waras,SMA,2022,0,Perempuan,XII
+Kec. Teluk Betung Timur,SMA,2022,0,Perempuan,XII
+Kec. Teluk Betung Barat,SMA,2022,0,Perempuan,Total
+Kec. Teluk Betung Selatan,SMA,2022,1,Perempuan,Total
+Kec. Panjang,SMA,2022,1,Perempuan,Total
+Kec. Tanjung Karang Timur,SMA,2022,2,Perempuan,Total
+Kec. Teluk Betung Utara,SMA,2022,1,Perempuan,Total
+Kec. Tanjung Karang Pusat,SMA,2022,0,Perempuan,Total
+Kec. Tanjung Karang Barat,SMA,2022,0,Perempuan,Total
+Kec. Kedaton,SMA,2022,0,Perempuan,Total
+Kec. Sukarame,SMA,2022,0,Perempuan,Total
+Kec. Kemiling,SMA,2022,0,Perempuan,Total
+Kec. Rajabasa,SMA,2022,0,Perempuan,Total
+Kec. Tanjung Senang,SMA,2022,13,Perempuan,Total
+Kec. Labuhan Ratu,SMA,2022,0,Perempuan,Total
+Kec. Kedamaian,SMA,2022,0,Perempuan,Total
+Kec. Enggal,SMA,2022,0,Perempuan,Total
+Kec. Langkapura,SMA,2022,0,Perempuan,Total
+Kec. Bumi Waras,SMA,2022,0,Perempuan,Total
+Kec. Teluk Betung Timur,SMA,2022,0,Perempuan,Total
+Kec. Teluk Betung Barat,SMA,2023,0,Laki-laki,X
+Kec. Teluk Betung Selatan,SMA,2023,0,Laki-laki,X
+Kec. Panjang,SMA,2023,0,Laki-laki,X
+Kec. Tanjung Karang Timur,SMA,2023,0,Laki-laki,X
+Kec. Teluk Betung Utara,SMA,2023,0,Laki-laki,X
+Kec. Tanjung Karang Pusat,SMA,2023,0,Laki-laki,X
+Kec. Tanjung Karang Barat,SMA,2023,0,Laki-laki,X
+Kec. Kedaton,SMA,2023,0,Laki-laki,X
+Kec. Sukarame,SMA,2023,0,Laki-laki,X
+Kec. Kemiling,SMA,2023,0,Laki-laki,X
+Kec. Rajabasa,SMA,2023,1,Laki-laki,X
+Kec. Tanjung Senang,SMA,2023,2,Laki-laki,X
+Kec. Labuhan Ratu,SMA,2023,0,Laki-laki,X
+Kec. Kedamaian,SMA,2023,0,Laki-laki,X
+Kec. Enggal,SMA,2023,1,Laki-laki,X
+Kec. Langkapura,SMA,2023,0,Laki-laki,X
+Kec. Bumi Waras,SMA,2023,0,Laki-laki,X
+Kec. Teluk Betung Timur,SMA,2023,0,Laki-laki,X
+Kec. Teluk Betung Barat,SMA,2023,0,Laki-laki,XI
+Kec. Teluk Betung Selatan,SMA,2023,0,Laki-laki,XI
+Kec. Panjang,SMA,2023,0,Laki-laki,XI
+Kec. Tanjung Karang Timur,SMA,2023,0,Laki-laki,XI
+Kec. Teluk Betung Utara,SMA,2023,0,Laki-laki,XI
+Kec. Tanjung Karang Pusat,SMA,2023,0,Laki-laki,XI
+Kec. Tanjung Karang Barat,SMA,2023,0,Laki-laki,XI
+Kec. Kedaton,SMA,2023,0,Laki-laki,XI
+Kec. Sukarame,SMA,2023,0,Laki-laki,XI
+Kec. Kemiling,SMA,2023,0,Laki-laki,XI
+Kec. Rajabasa,SMA,2023,0,Laki-laki,XI
+Kec. Tanjung Senang,SMA,2023,1,Laki-laki,XI
+Kec. Labuhan Ratu,SMA,2023,0,Laki-laki,XI
+Kec. Kedamaian,SMA,2023,0,Laki-laki,XI
+Kec. Enggal,SMA,2023,0,Laki-laki,XI
+Kec. Langkapura,SMA,2023,0,Laki-laki,XI
+Kec. Bumi Waras,SMA,2023,0,Laki-laki,XI
+Kec. Teluk Betung Timur,SMA,2023,0,Laki-laki,XI
+Kec. Teluk Betung Barat,SMA,2023,0,Laki-laki,XII
+Kec. Teluk Betung Selatan,SMA,2023,0,Laki-laki,XII
+Kec. Panjang,SMA,2023,0,Laki-laki,XII
+Kec. Tanjung Karang Timur,SMA,2023,0,Laki-laki,XII
+Kec. Teluk Betung Utara,SMA,2023,0,Laki-laki,XII
+Kec. Tanjung Karang Pusat,SMA,2023,0,Laki-laki,XII
+Kec. Tanjung Karang Barat,SMA,2023,0,Laki-laki,XII
+Kec. Kedaton,SMA,2023,0,Laki-laki,XII
+Kec. Sukarame,SMA,2023,0,Laki-laki,XII
+Kec. Kemiling,SMA,2023,0,Laki-laki,XII
+Kec. Rajabasa,SMA,2023,0,Laki-laki,XII
+Kec. Tanjung Senang,SMA,2023,0,Laki-laki,XII
+Kec. Labuhan Ratu,SMA,2023,0,Laki-laki,XII
+Kec. Kedamaian,SMA,2023,0,Laki-laki,XII
+Kec. Enggal,SMA,2023,0,Laki-laki,XII
+Kec. Langkapura,SMA,2023,0,Laki-laki,XII
+Kec. Bumi Waras,SMA,2023,0,Laki-laki,XII
+Kec. Teluk Betung Timur,SMA,2023,0,Laki-laki,XII
+Kec. Teluk Betung Barat,SMA,2023,0,Laki-laki,Total
+Kec. Teluk Betung Selatan,SMA,2023,0,Laki-laki,Total
+Kec. Panjang,SMA,2023,0,Laki-laki,Total
+Kec. Tanjung Karang Timur,SMA,2023,0,Laki-laki,Total
+Kec. Teluk Betung Utara,SMA,2023,0,Laki-laki,Total
+Kec. Tanjung Karang Pusat,SMA,2023,0,Laki-laki,Total
+Kec. Tanjung Karang Barat,SMA,2023,0,Laki-laki,Total
+Kec. Kedaton,SMA,2023,0,Laki-laki,Total
+Kec. Sukarame,SMA,2023,0,Laki-laki,Total
+Kec. Kemiling,SMA,2023,0,Laki-laki,Total
+Kec. Rajabasa,SMA,2023,1,Laki-laki,Total
+Kec. Tanjung Senang,SMA,2023,3,Laki-laki,Total
+Kec. Labuhan Ratu,SMA,2023,0,Laki-laki,Total
+Kec. Kedamaian,SMA,2023,0,Laki-laki,Total
+Kec. Enggal,SMA,2023,1,Laki-laki,Total
+Kec. Langkapura,SMA,2023,0,Laki-laki,Total
+Kec. Bumi Waras,SMA,2023,0,Laki-laki,Total
+Kec. Teluk Betung Timur,SMA,2023,0,Laki-laki,Total
+Kec. Teluk Betung Barat,SMA,2023,0,Perempuan,X
+Kec. Teluk Betung Selatan,SMA,2023,0,Perempuan,X
+Kec. Panjang,SMA,2023,1,Perempuan,X
+Kec. Tanjung Karang Timur,SMA,2023,0,Perempuan,X
+Kec. Teluk Betung Utara,SMA,2023,0,Perempuan,X
+Kec. Tanjung Karang Pusat,SMA,2023,1,Perempuan,X
+Kec. Tanjung Karang Barat,SMA,2023,0,Perempuan,X
+Kec. Kedaton,SMA,2023,0,Perempuan,X
+Kec. Sukarame,SMA,2023,0,Perempuan,X
+Kec. Kemiling,SMA,2023,0,Perempuan,X
+Kec. Rajabasa,SMA,2023,0,Perempuan,X
+Kec. Tanjung Senang,SMA,2023,2,Perempuan,X
+Kec. Labuhan Ratu,SMA,2023,0,Perempuan,X
+Kec. Kedamaian,SMA,2023,0,Perempuan,X
+Kec. Enggal,SMA,2023,0,Perempuan,X
+Kec. Langkapura,SMA,2023,0,Perempuan,X
+Kec. Bumi Waras,SMA,2023,0,Perempuan,X
+Kec. Teluk Betung Timur,SMA,2023,0,Perempuan,X
+Kec. Teluk Betung Barat,SMA,2023,0,Perempuan,XI
+Kec. Teluk Betung Selatan,SMA,2023,0,Perempuan,XI
+Kec. Panjang,SMA,2023,0,Perempuan,XI
+Kec. Tanjung Karang Timur,SMA,2023,0,Perempuan,XI
+Kec. Teluk Betung Utara,SMA,2023,0,Perempuan,XI
+Kec. Tanjung Karang Pusat,SMA,2023,0,Perempuan,XI
+Kec. Tanjung Karang Barat,SMA,2023,0,Perempuan,XI
+Kec. Kedaton,SMA,2023,0,Perempuan,XI
+Kec. Sukarame,SMA,2023,0,Perempuan,XI
+Kec. Kemiling,SMA,2023,0,Perempuan,XI
+Kec. Rajabasa,SMA,2023,0,Perempuan,XI
+Kec. Tanjung Senang,SMA,2023,0,Perempuan,XI
+Kec. Labuhan Ratu,SMA,2023,0,Perempuan,XI
+Kec. Kedamaian,SMA,2023,0,Perempuan,XI
+Kec. Enggal,SMA,2023,0,Perempuan,XI
+Kec. Langkapura,SMA,2023,0,Perempuan,XI
+Kec. Bumi Waras,SMA,2023,0,Perempuan,XI
+Kec. Teluk Betung Timur,SMA,2023,0,Perempuan,XI
+Kec. Teluk Betung Barat,SMA,2023,1,Perempuan,XII
+Kec. Teluk Betung Selatan,SMA,2023,0,Perempuan,XII
+Kec. Panjang,SMA,2023,0,Perempuan,XII
+Kec. Tanjung Karang Timur,SMA,2023,0,Perempuan,XII
+Kec. Teluk Betung Utara,SMA,2023,2,Perempuan,XII
+Kec. Tanjung Karang Pusat,SMA,2023,0,Perempuan,XII
+Kec. Tanjung Karang Barat,SMA,2023,0,Perempuan,XII
+Kec. Kedaton,SMA,2023,0,Perempuan,XII
+Kec. Sukarame,SMA,2023,0,Perempuan,XII
+Kec. Kemiling,SMA,2023,0,Perempuan,XII
+Kec. Rajabasa,SMA,2023,0,Perempuan,XII
+Kec. Tanjung Senang,SMA,2023,0,Perempuan,XII
+Kec. Labuhan Ratu,SMA,2023,0,Perempuan,XII
+Kec. Kedamaian,SMA,2023,0,Perempuan,XII
+Kec. Enggal,SMA,2023,0,Perempuan,XII
+Kec. Langkapura,SMA,2023,0,Perempuan,XII
+Kec. Bumi Waras,SMA,2023,0,Perempuan,XII
+Kec. Teluk Betung Timur,SMA,2023,0,Perempuan,XII
+Kec. Teluk Betung Barat,SMA,2023,1,Perempuan,Total
+Kec. Teluk Betung Selatan,SMA,2023,0,Perempuan,Total
+Kec. Panjang,SMA,2023,1,Perempuan,Total
+Kec. Tanjung Karang Timur,SMA,2023,0,Perempuan,Total
+Kec. Teluk Betung Utara,SMA,2023,2,Perempuan,Total
+Kec. Tanjung Karang Pusat,SMA,2023,1,Perempuan,Total
+Kec. Tanjung Karang Barat,SMA,2023,0,Perempuan,Total
+Kec. Kedaton,SMA,2023,0,Perempuan,Total
+Kec. Sukarame,SMA,2023,0,Perempuan,Total
+Kec. Kemiling,SMA,2023,0,Perempuan,Total
+Kec. Rajabasa,SMA,2023,0,Perempuan,Total
+Kec. Tanjung Senang,SMA,2023,2,Perempuan,Total
+Kec. Labuhan Ratu,SMA,2023,0,Perempuan,Total
+Kec. Kedamaian,SMA,2023,0,Perempuan,Total
+Kec. Enggal,SMA,2023,0,Perempuan,Total
+Kec. Langkapura,SMA,2023,0,Perempuan,Total
+Kec. Bumi Waras,SMA,2023,0,Perempuan,Total
+Kec. Teluk Betung Timur,SMA,2023,0,Perempuan,Total
+Kec. Teluk Betung Barat,SMA,2024,0,Laki-laki,X
+Kec. Teluk Betung Selatan,SMA,2024,0,Laki-laki,X
+Kec. Panjang,SMA,2024,0,Laki-laki,X
+Kec. Tanjung Karang Timur,SMA,2024,0,Laki-laki,X
+Kec. Teluk Betung Utara,SMA,2024,0,Laki-laki,X
+Kec. Tanjung Karang Pusat,SMA,2024,0,Laki-laki,X
+Kec. Tanjung Karang Barat,SMA,2024,0,Laki-laki,X
+Kec. Kedaton,SMA,2024,0,Laki-laki,X
+Kec. Sukarame,SMA,2024,0,Laki-laki,X
+Kec. Kemiling,SMA,2024,0,Laki-laki,X
+Kec. Rajabasa,SMA,2024,0,Laki-laki,X
+Kec. Tanjung Senang,SMA,2024,1,Laki-laki,X
+Kec. Sukabumi,SMA,2024,0,Laki-laki,X
+Kec. Labuhan Ratu,SMA,2024,0,Laki-laki,X
+Kec. Kedamaian,SMA,2024,0,Laki-laki,X
+Kec. Enggal,SMA,2024,0,Laki-laki,X
+Kec. Langkapura,SMA,2024,0,Laki-laki,X
+Kec. Bumi Waras,SMA,2024,0,Laki-laki,X
+Kec. Teluk Betung Timur,SMA,2024,0,Laki-laki,X
+Kec. Teluk Betung Barat,SMA,2024,0,Laki-laki,XI
+Kec. Teluk Betung Selatan,SMA,2024,0,Laki-laki,XI
+Kec. Panjang,SMA,2024,0,Laki-laki,XI
+Kec. Tanjung Karang Timur,SMA,2024,0,Laki-laki,XI
+Kec. Teluk Betung Utara,SMA,2024,0,Laki-laki,XI
+Kec. Tanjung Karang Pusat,SMA,2024,0,Laki-laki,XI
+Kec. Tanjung Karang Barat,SMA,2024,0,Laki-laki,XI
+Kec. Kedaton,SMA,2024,0,Laki-laki,XI
+Kec. Sukarame,SMA,2024,0,Laki-laki,XI
+Kec. Kemiling,SMA,2024,0,Laki-laki,XI
+Kec. Rajabasa,SMA,2024,0,Laki-laki,XI
+Kec. Tanjung Senang,SMA,2024,0,Laki-laki,XI
+Kec. Sukabumi,SMA,2024,0,Laki-laki,XI
+Kec. Labuhan Ratu,SMA,2024,0,Laki-laki,XI
+Kec. Kedamaian,SMA,2024,0,Laki-laki,XI
+Kec. Enggal,SMA,2024,1,Laki-laki,XI
+Kec. Langkapura,SMA,2024,0,Laki-laki,XI
+Kec. Bumi Waras,SMA,2024,0,Laki-laki,XI
+Kec. Teluk Betung Timur,SMA,2024,0,Laki-laki,XI
+Kec. Teluk Betung Barat,SMA,2024,0,Laki-laki,XII
+Kec. Teluk Betung Selatan,SMA,2024,0,Laki-laki,XII
+Kec. Panjang,SMA,2024,0,Laki-laki,XII
+Kec. Tanjung Karang Timur,SMA,2024,0,Laki-laki,XII
+Kec. Teluk Betung Utara,SMA,2024,0,Laki-laki,XII
+Kec. Tanjung Karang Pusat,SMA,2024,0,Laki-laki,XII
+Kec. Tanjung Karang Barat,SMA,2024,0,Laki-laki,XII
+Kec. Kedaton,SMA,2024,0,Laki-laki,XII
+Kec. Sukarame,SMA,2024,0,Laki-laki,XII
+Kec. Kemiling,SMA,2024,0,Laki-laki,XII
+Kec. Rajabasa,SMA,2024,0,Laki-laki,XII
+Kec. Tanjung Senang,SMA,2024,0,Laki-laki,XII
+Kec. Sukabumi,SMA,2024,0,Laki-laki,XII
+Kec. Labuhan Ratu,SMA,2024,0,Laki-laki,XII
+Kec. Kedamaian,SMA,2024,0,Laki-laki,XII
+Kec. Enggal,SMA,2024,1,Laki-laki,XII
+Kec. Langkapura,SMA,2024,0,Laki-laki,XII
+Kec. Bumi Waras,SMA,2024,0,Laki-laki,XII
+Kec. Teluk Betung Timur,SMA,2024,0,Laki-laki,XII
+Kec. Teluk Betung Barat,SMA,2024,0,Laki-laki,Total
+Kec. Teluk Betung Selatan,SMA,2024,0,Laki-laki,Total
+Kec. Panjang,SMA,2024,0,Laki-laki,Total
+Kec. Tanjung Karang Timur,SMA,2024,0,Laki-laki,Total
+Kec. Teluk Betung Utara,SMA,2024,0,Laki-laki,Total
+Kec. Tanjung Karang Pusat,SMA,2024,0,Laki-laki,Total
+Kec. Tanjung Karang Barat,SMA,2024,0,Laki-laki,Total
+Kec. Kedaton,SMA,2024,0,Laki-laki,Total
+Kec. Sukarame,SMA,2024,0,Laki-laki,Total
+Kec. Kemiling,SMA,2024,0,Laki-laki,Total
+Kec. Rajabasa,SMA,2024,0,Laki-laki,Total
+Kec. Tanjung Senang,SMA,2024,1,Laki-laki,Total
+Kec. Sukabumi,SMA,2024,0,Laki-laki,Total
+Kec. Labuhan Ratu,SMA,2024,0,Laki-laki,Total
+Kec. Kedamaian,SMA,2024,0,Laki-laki,Total
+Kec. Enggal,SMA,2024,2,Laki-laki,Total
+Kec. Langkapura,SMA,2024,0,Laki-laki,Total
+Kec. Bumi Waras,SMA,2024,0,Laki-laki,Total
+Kec. Teluk Betung Timur,SMA,2024,0,Laki-laki,Total
+Kec. Teluk Betung Barat,SMA,2024,0,Perempuan,X
+Kec. Teluk Betung Selatan,SMA,2024,0,Perempuan,X
+Kec. Panjang,SMA,2024,0,Perempuan,X
+Kec. Tanjung Karang Timur,SMA,2024,0,Perempuan,X
+Kec. Teluk Betung Utara,SMA,2024,0,Perempuan,X
+Kec. Tanjung Karang Pusat,SMA,2024,0,Perempuan,X
+Kec. Tanjung Karang Barat,SMA,2024,0,Perempuan,X
+Kec. Kedaton,SMA,2024,0,Perempuan,X
+Kec. Sukarame,SMA,2024,0,Perempuan,X
+Kec. Kemiling,SMA,2024,0,Perempuan,X
+Kec. Rajabasa,SMA,2024,0,Perempuan,X
+Kec. Tanjung Senang,SMA,2024,0,Perempuan,X
+Kec. Sukabumi,SMA,2024,0,Perempuan,X
+Kec. Labuhan Ratu,SMA,2024,0,Perempuan,X
+Kec. Kedamaian,SMA,2024,0,Perempuan,X
+Kec. Enggal,SMA,2024,0,Perempuan,X
+Kec. Langkapura,SMA,2024,0,Perempuan,X
+Kec. Bumi Waras,SMA,2024,0,Perempuan,X
+Kec. Teluk Betung Timur,SMA,2024,0,Perempuan,X
+Kec. Teluk Betung Barat,SMA,2024,0,Perempuan,XI
+Kec. Teluk Betung Selatan,SMA,2024,0,Perempuan,XI
+Kec. Panjang,SMA,2024,0,Perempuan,XI
+Kec. Tanjung Karang Timur,SMA,2024,0,Perempuan,XI
+Kec. Teluk Betung Utara,SMA,2024,0,Perempuan,XI
+Kec. Tanjung Karang Pusat,SMA,2024,0,Perempuan,XI
+Kec. Tanjung Karang Barat,SMA,2024,0,Perempuan,XI
+Kec. Kedaton,SMA,2024,0,Perempuan,XI
+Kec. Sukarame,SMA,2024,0,Perempuan,XI
+Kec. Kemiling,SMA,2024,0,Perempuan,XI
+Kec. Rajabasa,SMA,2024,0,Perempuan,XI
+Kec. Tanjung Senang,SMA,2024,0,Perempuan,XI
+Kec. Sukabumi,SMA,2024,0,Perempuan,XI
+Kec. Labuhan Ratu,SMA,2024,0,Perempuan,XI
+Kec. Kedamaian,SMA,2024,0,Perempuan,XI
+Kec. Enggal,SMA,2024,0,Perempuan,XI
+Kec. Langkapura,SMA,2024,0,Perempuan,XI
+Kec. Bumi Waras,SMA,2024,0,Perempuan,XI
+Kec. Teluk Betung Timur,SMA,2024,0,Perempuan,XI
+Kec. Teluk Betung Barat,SMA,2024,0,Perempuan,XII
+Kec. Teluk Betung Selatan,SMA,2024,0,Perempuan,XII
+Kec. Panjang,SMA,2024,0,Perempuan,XII
+Kec. Tanjung Karang Timur,SMA,2024,0,Perempuan,XII
+Kec. Teluk Betung Utara,SMA,2024,0,Perempuan,XII
+Kec. Tanjung Karang Pusat,SMA,2024,0,Perempuan,XII
+Kec. Tanjung Karang Barat,SMA,2024,0,Perempuan,XII
+Kec. Kedaton,SMA,2024,0,Perempuan,XII
+Kec. Sukarame,SMA,2024,0,Perempuan,XII
+Kec. Kemiling,SMA,2024,0,Perempuan,XII
+Kec. Rajabasa,SMA,2024,0,Perempuan,XII
+Kec. Tanjung Senang,SMA,2024,0,Perempuan,XII
+Kec. Sukabumi,SMA,2024,0,Perempuan,XII
+Kec. Labuhan Ratu,SMA,2024,0,Perempuan,XII
+Kec. Kedamaian,SMA,2024,0,Perempuan,XII
+Kec. Enggal,SMA,2024,1,Perempuan,XII
+Kec. Langkapura,SMA,2024,0,Perempuan,XII
+Kec. Bumi Waras,SMA,2024,0,Perempuan,XII
+Kec. Teluk Betung Timur,SMA,2024,0,Perempuan,XII
+Kec. Teluk Betung Barat,SMA,2024,0,Perempuan,Total
+Kec. Teluk Betung Selatan,SMA,2024,0,Perempuan,Total
+Kec. Panjang,SMA,2024,0,Perempuan,Total
+Kec. Tanjung Karang Timur,SMA,2024,0,Perempuan,Total
+Kec. Teluk Betung Utara,SMA,2024,0,Perempuan,Total
+Kec. Tanjung Karang Pusat,SMA,2024,0,Perempuan,Total
+Kec. Tanjung Karang Barat,SMA,2024,0,Perempuan,Total
+Kec. Kedaton,SMA,2024,0,Perempuan,Total
+Kec. Sukarame,SMA,2024,0,Perempuan,Total
+Kec. Kemiling,SMA,2024,0,Perempuan,Total
+Kec. Rajabasa,SMA,2024,0,Perempuan,Total
+Kec. Tanjung Senang,SMA,2024,0,Perempuan,Total
+Kec. Sukabumi,SMA,2024,0,Perempuan,Total
+Kec. Labuhan Ratu,SMA,2024,0,Perempuan,Total
+Kec. Kedamaian,SMA,2024,0,Perempuan,Total
+Kec. Enggal,SMA,2024,1,Perempuan,Total
+Kec. Langkapura,SMA,2024,0,Perempuan,Total
+Kec. Bumi Waras,SMA,2024,0,Perempuan,Total
+Kec. Teluk Betung Timur,SMA,2024,0,Perempuan,Total
