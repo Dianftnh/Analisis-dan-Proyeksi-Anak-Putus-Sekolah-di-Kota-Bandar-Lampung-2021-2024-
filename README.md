@@ -2,7 +2,7 @@
 
 Proyek analisis data end-to-end tentang anak putus sekolah di Kota Bandar Lampung: mulai dari penilaian kualitas data, pembersihan, analisis eksplorasi mendalam, hingga proyeksi 2025 menggunakan regresi linear.
 
-![Peta panas kasus putus sekolah per kecamatan dan tahun](assets/05_peta_panas_kecamatan_tahun.png)
+[Peta panas kasus putus sekolah per kecamatan dan tahun](assets/05_peta_panas_kecamatan_tahun.png)
 
 ---
 
